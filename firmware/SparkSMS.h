@@ -4,7 +4,7 @@
  * 
  * SparkSMS.h
  * 
- * @author Harrison Jones
+ * @author Harrison Jones <harrison@hhj.me>
  * @version 1.0 May 08, 2015
  * 
 */
