@@ -60,7 +60,7 @@ bool SparkSMS::sendSMS(char* number, char* message)
     buffPublish[62] = '\0';
 
     // Send the formatted string
-    Spark.publish("SMSSEND",buffPublish);
+    Spark.publish("SMSSEND",buffPublish, 60, PRIVATE);
     
     return true;
 }
