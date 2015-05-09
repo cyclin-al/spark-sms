@@ -1,0 +1,7 @@
+{
+  "name": "spark-sms",
+  "author": "Harrison Jones <harrison@hhj.me>",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A Spark library for sending and receiving SMS"
+}
